@@ -1,2 +1,2 @@
 # Cpp_std
-null
+Some notes about Cpp study.
